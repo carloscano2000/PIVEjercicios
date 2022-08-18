@@ -13,6 +13,7 @@ public class HorariodeClase {
         System.out.println("lUNES\t\tMartes\t\tMierc.\t\tJueves\t\tViernes");
         System.out.println("=====\t\t ======\t\t =====\t\t ======\t\t ======");
         System.out.println("Proy.inf\tArq Inf\t\tProg IV\t\tAud Sist\tIng Soft\t");
+        System.out.println("Inicio de clase");
         
         
     }
