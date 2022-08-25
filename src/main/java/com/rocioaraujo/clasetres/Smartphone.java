@@ -39,4 +39,29 @@ public class Smartphone extends Celular {
         
     }
     
+    //getters y setters
+    public float getPixelesCamara(){
+        return pixelesCamara;
+    }
+    public void setPixelesCamara(float pixCamara){
+        this.pixelesCamara = pixCamara;
+    }
+    
+    public float getTamanhoMemoriaInterna (){
+        return tamanhoMemoriaInterna;
+    }
+    
+    public void setTamanhoMemoriaInterna(float tamMemInterna){
+        this.tamanhoMemoriaInterna = tamMemInterna;
+    }
+    
+    public float getTamanhoMemoriaExterna(){
+        return tamanhoMemoriaExterna;
+    }
+    public void setTamanhoMemoriaExterna(float tamMemExterna){
+        this.tamanhoMemoriaExterna = tamMemExterna;
+        
+    }
+    
+     
 }
